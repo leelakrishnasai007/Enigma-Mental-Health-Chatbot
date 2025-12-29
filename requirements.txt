@@ -1,0 +1,17 @@
+# requirements.txt
+# Enigma Chatbot – Mental Health Support (Streamlit + Python)
+#
+# Install everything with:
+#   pip install -r requirements.txt
+#
+# What these packages do:
+# - streamlit : builds the web UI (chat interface + session memory)
+#
+# Notes:
+# - This project also uses built-in Python libraries like:
+#   json, time, random  (so you do NOT need to install them)
+#
+# Recommended Python:
+# - Python 3.9+ (works best with Streamlit)
+
+streamlit
