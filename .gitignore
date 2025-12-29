@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.streamlit/secrets.toml
+secrets.toml
+
+# Streamlit cache (optional)
+.streamlit/cache/
+
+# Logs
+*.log
