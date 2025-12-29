@@ -19,3 +19,5 @@ secrets.toml
 
 # Logs
 *.log
+.DS_Store
+.gitattributes
